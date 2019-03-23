@@ -1,0 +1,45 @@
+body{
+  background: #54FCB9;
+}
+.main{
+  display:flex;
+  margin:2%;
+  padding:2%;
+  width:95%;
+}
+.division{
+  width:40%;
+}
+.main section{
+  width:95%;
+  border:2px solid black;
+  margin:1%;
+  padding:1%;
+
+
+}
+section{
+  background:#54adfc;
+  text-align: center;
+}
+input,select{
+  width:95%;
+  margin:1%;
+  padding:1%;
+  display:block;
+  border:1px solid black;
+}
+.carrier{
+  width:95%;
+}
+button{
+  text-align: center;
+  width:25%;
+  background:#145daf;
+  color:#ddd;
+  margin:1%;
+  padding:1%;
+  font-size:90%;
+  font-style:oblique;
+  font-weight: bold;
+}
